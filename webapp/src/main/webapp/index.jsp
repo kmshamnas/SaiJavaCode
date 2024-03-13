@@ -9,4 +9,6 @@
 <h2> We are done with DevOps project-2!!! with ansible deployment!!!</h2>
 <h2> We are done with Docker Deployment!! </h2>
 <h2> We are done with two projects!! </h2>
+<h2> We are practicing on Aws cloud
+<h2> so wait there
 
