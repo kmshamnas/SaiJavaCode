@@ -1,6 +1,4 @@
 <h1> Hello Dear Students !!, Welcome to DevOps Project-2 !! </h1>
-<h1> Welcome to Orison teletherappy
-<h2> By Mrs.Asna sherin KV
 <h2> A speach language pathologist
 <h2> c u
 <h2> By Mr.Hari from Saidemy </h2>
@@ -10,5 +8,5 @@
 <h2> We are done with Docker Deployment!! </h2>
 <h2> We are done with two projects!! </h2>
 <h2> We are practicing on Aws cloud
-<h2> so wait there
+
 
